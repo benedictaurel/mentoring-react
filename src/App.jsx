@@ -5,7 +5,7 @@ import { motion } from 'framer-motion'
 import { Github, Linkedin, Mail } from 'lucide-react'
 
 export default function Component() {
-  // JAVASCRIPT
+  // JAVASCRIPT asdjahjdweaklwd
   const [activeSection, setActiveSection] = useState('home')
 
   const projects = [
